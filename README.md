@@ -5,9 +5,10 @@ I'm a  Developer, Creator, and Mentor!!
 
 
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://tenor.com/bPQ5y.gif" width="500" height="320" />
 
-
+https://tenor.com/bPQ5y.gif
+https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true
 ## I'm a  Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning React Native and Azure
