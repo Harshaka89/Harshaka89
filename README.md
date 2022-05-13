@@ -5,7 +5,7 @@ I'm a  Developer, Creator, and Mentor!!
 
 
 
- <img align="right" alt="GIF" src="https://tenor.com/bPQ5y.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://tenor.com/view/software-software-development-gif-24712790" width="500" height="320" />
 
 https://tenor.com/bPQ5y.gif
 https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true
