@@ -9,7 +9,7 @@ Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning NodeJS, ReactJS
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: He
+- 😄 Pronouns: nath
 - ⚡ Fun fact: I speak 2 languages ( English, Sinhalaish)
 
 ### Talk with me, I am kinda awesome:
@@ -46,23 +46,23 @@ Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="Harshaka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Harshka's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
+[website]: 
+[youtube]: 
 [twitter]:https://twitter.com/HWaththegedara
 [instagram]: https://www.instagram.com/harsh_vw/?hl=en
 [linkedin]: https://www.linkedin.com/in/harshakaw/
-[portfolio]: https://arsentieva.github.io/profile/
+[portfolio]: 
 
 
 
