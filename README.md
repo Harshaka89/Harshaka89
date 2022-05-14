@@ -57,12 +57,12 @@ Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 
 </details>
 
-[website]: 
-[youtube]: 
+[website]: https://www.linkedin.com/in/harshakaw/
+[youtube]: https://www.linkedin.com/in/harshakaw/
 [twitter]:https://twitter.com/HWaththegedara
 [instagram]: https://www.instagram.com/harsh_vw/?hl=en
 [linkedin]: https://www.linkedin.com/in/harshakaw/
-[portfolio]: 
+[portfolio]: https://www.linkedin.com/in/harshakaw/
 
 
 
