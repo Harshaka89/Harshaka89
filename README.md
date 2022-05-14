@@ -22,7 +22,7 @@ Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 
 
 ### Languages and Tools:
-
+<img align="left" alt="java" width="40" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/GCP_LOG.png" />
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
@@ -42,6 +42,15 @@ Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 <br />
 <br />
 ---
+
+### Projects
+- [📈Spring-Boot-CRUD ](https://github.com/Harshaka89/Spring-Boot-CRUD)
+
+
+➡️ [more projects...](https://github.com/melanieshi0120?tab=repositories)
+
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -63,6 +72,8 @@ Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 [instagram]: https://www.instagram.com/harsh_vw/?hl=en
 [linkedin]: https://www.linkedin.com/in/harshakaw/
 [portfolio]: https://www.linkedin.com/in/harshakaw/
+
+
 
 
 
