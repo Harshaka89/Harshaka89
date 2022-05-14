@@ -1,4 +1,4 @@
-# Hello , I'm Harshaka 👋
+# Hello,I'm Harshaka 👋
 
 
 ### 🙋🏻‍♂️ Software Engineer 
@@ -54,8 +54,8 @@ Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 
 
 ### Projects
-- [🟢Spring-Boot-CRUD ](https://github.com/Harshaka89/Spring-Boot-CRUD)
-- [🔴Java](https://github.com/Harshaka89/Spring-Boot-CRUD)
+- [🟢 Spring-Boot-CRUD ](https://github.com/Harshaka89/Spring-Boot-CRUD)
+- [🔴 Java](https://github.com/Harshaka89/Spring-Boot-CRUD)
 
 
 ➡️ [more projects...](https://github.com/harshaka89?tab=repositories)
