@@ -1,40 +1,25 @@
 # Hello World, I'm Harshaka 👋
-GIF
 
-### Hi there 👋, Harshka Waththegedara
-#### Java
+
 🙋🏻‍♂️ I am an experienced Software Engineer with 1+ years of experience in the field of Information Technology having the ORACLE certifications, a bachelor degree for Computer Science
 
 Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 
-🌱 I’m currently learning web development (NodeJS, ReactJS and Angular).
-- 🔭 I’m currently working on this page. 
 
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshaka89)](https://github.com/anuraghazra/github-readme-stats)
-
-
-****
-
-
-
-
-https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true
-## I'm a  Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
+✍ You can find my projects here [portfolio]
+- 🌱 I’m currently learning NodeJS, ReactJS
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He
 - ⚡ Fun fact: I speak 2 languages ( English, Sinhalaish)
-
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+
+
+
 
 ### Languages and Tools:
 
@@ -74,8 +59,9 @@ https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true
 
 [website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[twitter]:https://twitter.com/HWaththegedara
+[instagram]: https://www.instagram.com/harsh_vw/?hl=en
+[linkedin]: https://www.linkedin.com/in/harshakaw/
 [portfolio]: https://arsentieva.github.io/profile/
 
 
