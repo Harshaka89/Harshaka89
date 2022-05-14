@@ -1,7 +1,7 @@
-# Hello World, I'm Harshaka 👋
+# Hello , I'm Harshaka 👋
 
 
-🙋🏻‍♂️ I am an experienced Software Engineer with 1+ years of experience in the field of Information Technology having the ORACLE certifications, a bachelor degree for Computer Science
+🙋🏻‍♂️ I am Software Engineer 
 
 Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 
