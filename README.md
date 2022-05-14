@@ -81,7 +81,7 @@ Skills: JAVA  /  SPRING BOOT / MYSQL / JS / HTML / CSS /
 [twitter]:https://twitter.com/HWaththegedara
 [instagram]: https://www.instagram.com/harsh_vw/?hl=en
 [linkedin]: https://www.linkedin.com/in/harshakaw/
-[portfolio]: https://www.linkedin.com/in/harshakaw/
+[portfolio]: https://sourcerer.io/harshaka89
 
 
 
